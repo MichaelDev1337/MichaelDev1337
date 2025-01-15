@@ -1,5 +1,5 @@
 <br><br>
-       [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&background=15182A&center=true&vCenter=true&width=1400&height=70&lines=Welcome!+Have+a+look+around;My+name+is+Michael+and+I+sometimes+do+stuff)](https://git.io/typing-svg)
+       [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=750&background=15182A&center=true&vCenter=true&width=1400&height=70&lines=Welcome!+Have+a+look+around;My+name+is+Michael+and+I+sometimes+do+stuff)](https://git.io/typing-svg)
 <br>
  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&weight=900&size=70&duration=400&pause=1&color=A2C1FF&center=true&multiline=true&repeat=false&width=1700&height=110&lines=Hobbies%3A)](https://git.io/typing-svg)
 <br>
