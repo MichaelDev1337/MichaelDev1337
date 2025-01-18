@@ -10,6 +10,17 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&size=30&duration=400&pause=1&color=c2ffea&multiline=true&repeat=false&center=false&vCenter=true&width=1700&height=70&lines=I+go+outside+from+time+to+time%2C+just+to+walk+around+and+enjoy+the+moment.)](https://git.io/typing-svg)
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&size=30&duration=400&pause=1&color=c2ffea&multiline=true&repeat=false&center=false&vCenter=true&width=1700&height=70&lines=I+also+like+to+discover+new+things+on+a+daily+basis)](https://git.io/typing-svg)
  <br>
+
+
+## Tech Stack
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+#### Tools
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+ 
 <details open> 
     <summary><h3>📜 Current projects</h3></summary>
     <a href="https://github.com/MichaelDev1337/Website-for-school">
