@@ -35,6 +35,7 @@
        <a href="https://github.com/MichaelDev1337"><img alt="My stats" title="My stats" src="https://github-readme-stats.vercel.app/api?username=MichaelDev1337&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
        </a>
          <br>
-         <a href="https://github.com/MichaelDev1337"><img alt="Most used languages" title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDev1337&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"></a>
+         <!-- <a href="https://github.com/MichaelDev1337"><img alt="Most used languages" title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDev1337&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"></a> -->
+         <!-- updated warum auch immer nicht automatisch -->
   </details>
 
