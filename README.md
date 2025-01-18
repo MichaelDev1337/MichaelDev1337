@@ -20,8 +20,10 @@
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"></a>
 #### Tools
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA%20Community%20Editon-DD7A2A.svg?logo=intellij-idea&logoColor=white"></a>
- 
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA%20Community%20Editon-DD7A2A.svg?logo=intellij-idea&logoColor=white"></a><br>
+--
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MichaelDev1337&label=Profile_vieωs&color=0e75b6&style=flat" alt="MichaelDev1337" /> </p> 
+
 <details open> 
     <summary><h3>📜 Current projects</h3></summary>
     <a href="https://github.com/MichaelDev1337/Website-for-school">
@@ -30,13 +32,12 @@
        <br>
        <a href="https://github.com/MichaelDev1337?tab=repositories"><img width="30.8%" alt="Alle Repositories" title="Alle Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20for%20all%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>
-       <br>
   <details open>
        <summary><h3>📊📈 My stats</h3></summary>
        <a href="https://github.com/MichaelDev1337"><img alt="My stats" title="My stats" src="https://github-readme-stats.vercel.app/api?username=MichaelDev1337&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
        </a>
          <br>
          <!-- <a href="https://github.com/MichaelDev1337"><img alt="Most used languages" title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDev1337&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"></a> -->
-         <!-- updated warum auch immer nicht automatisch -->
+         <!-- for whatever reason it doesn't update it automatically. Maybe I am just impatient or something. -->
   </details>
 
