@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3500&pause=750&background=15182A&center=true&vCenter=true&center="false"&width=1400&height=70&lines=>+Welcome!+Have+a+look+around;>+My+name+is+Michael+and+I+sometimes+do+stuff)](https://git.io/typing-svg)
 <br>
+
+# Taking a small break
+
  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&color=c2ffea&weight=900&size=70&duration=400&pause=1&center=false&multiline=true&repeat=false&width=1700&height=110&lines=Hobbies%3A)](https://git.io/typing-svg)
 <br>
 
