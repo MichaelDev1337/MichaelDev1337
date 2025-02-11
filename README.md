@@ -29,9 +29,6 @@
 
 <details open> 
     <summary><h3>📜 Current projects</h3></summary>
-    <a href="https://github.com/MichaelDev1337/Website-for-school">
-       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MichaelDev1337&repo=Website-for-school&theme=react&bg_color=1F222E&title_color=#c2ffea&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Projekt2">
-    </a>
        <br>
        <a href="https://github.com/MichaelDev1337?tab=repositories"><img width="30.8%" alt="Alle Repositories" title="Alle Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20for%20all%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>
